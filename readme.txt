@@ -1,1 +1,3 @@
-Hello World blah blah blah
+Project: Genome Assembly
+Maintainer: Ratchanon (RP) Pornmongkolsuk
+
